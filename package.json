@@ -1,6 +1,6 @@
 {
-  "name": "webapplication1",
-  "version": "0.0.0",
+  "name": "webapplication-assignment-1",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node server"
@@ -16,5 +16,18 @@
     "jquery": "^3.7.0",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "\"# webapplication-assignment-1\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecsmrys/webapplication-assignment-1.git"
+  },
+  "author": "alecs reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecsmrys/webapplication-assignment-1/issues"
+  },
+  "homepage": "https://github.com/alecsmrys/webapplication-assignment-1#readme"
 }
